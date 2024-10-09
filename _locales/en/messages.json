@@ -1,0 +1,34 @@
+{
+    "extensionName": {
+        "message": "Save As... Using Page Title",
+        "description": "name of extension"
+    },
+    "extensionDescription": {
+        "message": "Adds context menu items to save as... using the page title",
+        "description": "description of extension"
+    },
+    "contextMenuItemSaveAs": {
+        "message": "Save As... using the page title",
+        "description": "context menu item label for saving a link."
+    },
+    "contextMenuItemCutTail": {
+        "message": "Number of characters to truncate from end",
+        "description": "context menu item label for setting to truncate the last n characters from the page title."
+    },
+    "contextMenuItemCutHead": {
+        "message": "Number of characters to truncate from start",
+        "description": "context menu item label for setting to truncate the first n characters from the page title."
+    },
+    "dialogMessageFileNameIsEmpty": {
+        "message": "Unable to save because the truncated filename is empty. Please check the numbers to truncate characters!",
+        "description": "alert dialog message to be used in the case a filename to be saved is empty."
+    },
+    "dialogMessageEditTailCutNum": {
+        "message": "Input the number to truncate the last n characters from the page title.",
+        "description": "dialog message to edit the number to truncate the last n characters from the page title"
+    },
+    "dialogMessageEditHeadCutNum": {
+        "message": "Input the number to truncate the first n characters from the page title.",
+        "description": "dialog message to edit the number to truncate the first n characters from the page title"
+    }
+}

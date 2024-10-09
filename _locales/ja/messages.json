@@ -1,0 +1,34 @@
+{
+    "extensionName": {
+        "message": "ページタイトルを使ってリンク先を保存",
+        "description": "name of extension"
+    },
+    "extensionDescription": {
+        "message": "コンテキストメニュー（右クリックメニュー）にファイル名にページタイトルを使用するリンク先保存機能を追加します",
+        "description": "description of extension"
+    },
+    "contextMenuItemSaveAs": {
+        "message": "ページタイトルを使ってリンク先を保存",
+        "description": "context menu item label for saving a link."
+    },
+    "contextMenuItemCutTail": {
+        "message": "削る末尾の文字数",
+        "description": "context menu item label for setting to truncate the last n characters from the page title."
+    },
+    "contextMenuItemCutHead": {
+        "message": "削る先頭の文字数",
+        "description": "context menu item label for setting to truncate the first n characters from the page title."
+    },
+    "dialogMessageFileNameIsEmpty": {
+        "message": "ファイル名が空になるため保存できません。削る文字数の設定を確認してください",
+        "description": "alert dialog message to be used in the case a filename to be saved is empty."
+    },
+    "dialogMessageEditTailCutNum": {
+        "message": "ページ保存時に、指定した数だけページタイトルの末尾の文字を削除します",
+        "description": "dialog message to edit the number to truncate the last n characters from the page title"
+    },
+    "dialogMessageEditHeadCutNum": {
+        "message": "ページ保存時に、指定した数だけページタイトルの先頭の文字を削除します",
+        "description": "dialog message to edit the number to truncate the first n characters from the page title"
+    }
+}
